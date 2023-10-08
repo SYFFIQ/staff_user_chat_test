@@ -1,0 +1,21 @@
+<style>
+.body-edit-staff {
+  background-color: #FCE4EC;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-top: 100px;
+
+}
+
+.body-staff{
+	margin-top:200px;
+	
+}
+
+.form-class{
+	text-align:center;
+	
+}
+</style>
